@@ -1,0 +1,1 @@
+// Ce fichier sera remplacé par vite.config.js
